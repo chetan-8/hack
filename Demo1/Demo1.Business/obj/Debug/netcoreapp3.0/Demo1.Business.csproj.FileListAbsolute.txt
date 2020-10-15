@@ -1,0 +1,12 @@
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\bin\Debug\netcoreapp3.0\Demo1.Business.deps.json
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\bin\Debug\netcoreapp3.0\Demo1.Business.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\bin\Debug\netcoreapp3.0\Demo1.Business.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.csprojAssemblyReference.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.AssemblyInfoInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.AssemblyInfo.cs
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\bin\Debug\netcoreapp3.0\Demo1.Core.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\bin\Debug\netcoreapp3.0\Demo1.Core.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.csproj.CopyComplete
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Business\obj\Debug\netcoreapp3.0\Demo1.Business.csproj.CoreCompileInputs.cache

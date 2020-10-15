@@ -1,0 +1,8 @@
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\bin\Debug\netcoreapp3.1\Demo1.Resolver.deps.json
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\bin\Debug\netcoreapp3.1\Demo1.Resolver.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\obj\Debug\netcoreapp3.1\Demo1.Resolver.AssemblyInfoInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\obj\Debug\netcoreapp3.1\Demo1.Resolver.AssemblyInfo.cs
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\bin\Debug\netcoreapp3.1\Demo1.Resolver.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\obj\Debug\netcoreapp3.1\Demo1.Resolver.csproj.CoreCompileInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\obj\Debug\netcoreapp3.1\Demo1.Resolver.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Resolver\obj\Debug\netcoreapp3.1\Demo1.Resolver.pdb

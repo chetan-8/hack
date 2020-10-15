@@ -1,0 +1,9 @@
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\bin\Debug\netcoreapp3.1\Demo1.Repository.deps.json
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\bin\Debug\netcoreapp3.1\Demo1.Repository.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\bin\Debug\netcoreapp3.1\Demo1.Repository.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\obj\Debug\netcoreapp3.1\Demo1.Repository.AssemblyInfoInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\obj\Debug\netcoreapp3.1\Demo1.Repository.AssemblyInfo.cs
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\obj\Debug\netcoreapp3.1\Demo1.Repository.csproj.CoreCompileInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\obj\Debug\netcoreapp3.1\Demo1.Repository.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\obj\Debug\netcoreapp3.1\Demo1.Repository.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Repository\obj\Debug\netcoreapp3.1\Demo1.Repository.csprojAssemblyReference.cache

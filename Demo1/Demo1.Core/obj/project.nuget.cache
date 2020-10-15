@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtnOOyFuN5Os0n3HqUhZ7MrJFiTfNZNVWCEhUdhufjxF0MIGRjQbp0xRamspDQTwGkov9nVFI10cKlW8Yh42Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Chetan\\Projects\\Hack\\Hackathon\\Hack1\\Demo1\\Demo1.Core\\Demo1.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chetan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

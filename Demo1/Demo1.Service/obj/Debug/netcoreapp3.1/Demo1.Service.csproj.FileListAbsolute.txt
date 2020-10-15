@@ -1,0 +1,8 @@
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\bin\Debug\netcoreapp3.1\Demo1.Service.deps.json
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\bin\Debug\netcoreapp3.1\Demo1.Service.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\bin\Debug\netcoreapp3.1\Demo1.Service.pdb
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\obj\Debug\netcoreapp3.1\Demo1.Service.AssemblyInfoInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\obj\Debug\netcoreapp3.1\Demo1.Service.AssemblyInfo.cs
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\obj\Debug\netcoreapp3.1\Demo1.Service.csproj.CoreCompileInputs.cache
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\obj\Debug\netcoreapp3.1\Demo1.Service.dll
+C:\Chetan\Projects\Hack\Hackathon\Hack1\Demo1\Demo1.Service\obj\Debug\netcoreapp3.1\Demo1.Service.pdb
